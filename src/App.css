@@ -9,7 +9,7 @@
   text-align: center;
   position: relative;
   top: 100px;
-  background: url("./images/baseball-3778774_1280.png");
+  background: url("../public/images/baseball-3778774_1280.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -44,7 +44,7 @@
   height: 631px;
   position: relative;
   top: 40px;
-  background: url("./images/baseball-glove-4269892_1280.png");
+  background: url("../public/images/baseball-glove-4269892_1280.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
